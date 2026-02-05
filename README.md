@@ -20,7 +20,7 @@ TABLE OF CONTENTS
 GENERAL INFORMATION
 --------------------
 ​
-Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas
+**Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas**
  
 ​
 Authors: Emmanuel C. Ogbonna*, Soheil R. Talemi*, Ziyuan Zhao, Zoltan Maliga, Clarence Yapp, Yu-An Chen, Shishir Pant, Jeremy Muhlich, Brigette B.K. Kobs,  Andréanne Gagné, Threnesan Naidoo, Angela Shih, Isaac H. Solomon, Sandro Santagata, Amanda J. Martinot, Adrie Steyn, Bree B. Aldridge†, Peter K. Sorger†
@@ -74,10 +74,9 @@ If you experience issues accessing the above AWS S3 buckets, email tissue-atlas(
 ## Other Repository 
 Image data generated during this study are available on the Gates TB Data Portal (https://idp.tissue-atlas.org/). For access, email tissue-atlas(at)hms.harvard.edu with the subject line "Gates TB Data Portal: Data Access".  
 ​
-## FILE LIST  
-<List all files (or folders, as appropriate for dataset organization) contained in each repository, with a brief description. If you are depositing certain file types into public, standardized repositories that already include a file index & metadata, you can link to that repository instead of listing all individual files. For all other data, (on AWS, etc) list all files. >  
+**FILE LIST**
 ​
-### N.ome.tif
+**CyCIF Image Data**
 ​
 |Patient or Biospecimen ID | File Name       | Location| File size (GB) |
 |------- | ----------------|---------|-----------|
