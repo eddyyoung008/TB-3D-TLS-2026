@@ -71,7 +71,6 @@ If you experience issues accessing the above AWS S3 buckets, email tissue-atlas(
 ## Other Repository 
 Image data generated during this study are available on the Gates TB Data Portal (https://idp.tissue-atlas.org/). For access, email tissue-atlas(at)hms.harvard.edu with the subject line "Gates TB Data Portal: Data Access".  
 ## FILE LIST 
-​
 ## **CyCIF Image Data**​
 | Patient ID |File Name                     | Location | File Size (GB) | Antibody Panel |
 |-------------|-------------------------------|----------|---------------|----------------|
