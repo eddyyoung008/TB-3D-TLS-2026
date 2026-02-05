@@ -123,15 +123,51 @@ Image data generated during this study are available on the Gates TB Data Portal
 | Patient1_B5 | LSP16105.ome.tif              | AWS      | 164.00 |
 | Patient2    | LSP16031.ome.tif              | AWS      | 11.30 |
 
-
-
-​
-​
-### N_HE.vsi
-​
-|Patient or Biospecimen ID | File Name      | Location| File size|
-|--------| ---------------|---------|----------|
-|ID | ID.ome.tif_HE.vsi | AWS     | N.N KB |
+### H&E Image Data  
+| Patient ID  | File Name                  | Location | File Size (GB) |
+|-------------|----------------------------|----------|---------------|
+| Patient1_B4 | LSP24521.ome.tif           | AWS      | 12.15 |
+| Patient1_B4 | LSP24524.ome.tif           | AWS      | 14.00 |
+| Patient1_B4 | LSP24527.ome.tif           | AWS      | 13.48 |
+| Patient1_B4 | LSP24530.ome.tif           | AWS      | 12.78 |
+| Patient1_B4 | LSP24533.ome.tif           | AWS      | 13.78 |
+| Patient1_B4 | LSP24536.ome.tif           | AWS      | 16.61 |
+| Patient1_B4 | LSP24539.ome.tif           | AWS      | 16.72 |
+| Patient1_B4 | LSP24542.ome.tif           | AWS      | 16.42 |
+| Patient1_B4 | LSP24545.ome.tif           | AWS      | 18.33 |
+| Patient1_B4 | LSP24548.ome.tif           | AWS      | 13.97 |
+| Patient1_B4 | LSP24551.ome.tif           | AWS      | 12.54 |
+| Patient1_B4 | LSP24554.ome.tif           | AWS      | 13.91 |
+| Patient1_B4 | LSP24557.ome.tif           | AWS      | 13.83 |
+| Patient1_B4 | LSP24560.ome.tif           | AWS      | 13.21 |
+| Patient1_B4 | LSP24563.ome.tif           | AWS      | 13.25 |
+| Patient1_B4 | LSP24566.ome.tif           | AWS      | 13.93 |
+| Patient1_B4 | LSP24569.ome.tif           | AWS      | 13.46 |
+| Patient1_B4 | LSP24572.ome.tif           | AWS      | 14.41 |
+| Patient1_B4 | LSP24575.ome.tif           | AWS      | 13.23 |
+| Patient1_B4 | LSP24578.ome.tif           | AWS      | 13.43 |
+| Patient1_B4 | LSP24581.ome.tif           | AWS      | 13.23 |
+| Patient1_B4 | LSP24584.ome.tif           | AWS      | 12.64 |
+| Patient1_B4 | LSP24587.ome.tif           | AWS      | 13.73 |
+| Patient1_B4 | LSP24590.ome.tif           | AWS      | 13.01 |
+| Patient1_B4 | LSP24593.ome.tif           | AWS      | 12.73 |
+| Patient1_B4 | LSP24596.ome.tif           | AWS      | 13.72 |
+| Patient1_B4 | LSP24599.ome.tif           | AWS      | 17.65 |
+| Patient1_B4 | LSP24602.ome.tif           | AWS      | 11.89 |
+| Patient1_B4 | LSP24605.ome.tif           | AWS      | 16.95 |
+| Patient1_B4 | LSP24608.ome.tif           | AWS      | 14.84 |
+| Patient1_B4 | LSP24611.ome.tif           | AWS      | 13.68 |
+| Patient1_B4 | LSP24614.ome.tif           | AWS      | 13.78 |
+| Patient1_B4 | LSP24617.ome.tif           | AWS      | 13.49 |
+| Patient1_B4 | LSP24620.ome.tif           | AWS      | 14.22 |
+| Patient1_B4 | LSP24623.ome.tif           | AWS      | 13.12 |
+| Patient1_B4 | LSP24626.ome.tif           | AWS      | 13.01 |
+| Patient1_B4 | LSP24629.ome.tif           | AWS      | 13.53 |
+| Patient1_B4 | LSP24632.ome.tif           | AWS      | 12.78 |
+| Patient1_B4 | LSP24635.ome.tif           | AWS      | 13.39 |
+| Patient1_B4 | LSP24638.ome.tif           | AWS      | 11.72 |
+| Patient1_B5 | LSP16103.ome.tif           | AWS      | 0.84 |
+| Patient1_B5 | LSP16106.ome.tiff          | AWS      | 19.70 |
 ​
 ​
 ### \_N\_HE\_/
