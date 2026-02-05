@@ -73,12 +73,9 @@ Image data generated during this study are available on the Gates TB Data Portal
 ​
 **FILE LIST**
 ​
- ## **CyCIF Image Data**
-​
+ ## **CyCIF Image Data**​
 |Patient or Biospecimen ID | File Name       | Location| File size (GB) |
-|------- | ----------------|---------|-----------|
-| Patient ID  | File Name                     | Location | File Size (GB) |
-|-------------|-------------------------------|----------|---------------|
+|-------------|-------------------------------|----------|--------------|
 | Patient1_B4 | LSP24522.ome.tif              | AWS      | 222.37 |
 | Patient1_B4 | LSP24525.ome.tif              | AWS      | 202.51 |
 | Patient1_B4 | LSP24528.ome.tif              | AWS      | 202.57 |
