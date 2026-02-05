@@ -26,7 +26,7 @@ GENERAL INFORMATION
 *Authors contributed equally to this article.
 †Co-corresponding. 
 ​
-4. **Please cite this data as the following: Ogbonna and Talemi (2026). Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas.  {journal/biorxv}
+4. **Please cite this data as the following: Ogbonna and Rastgou Talemi (2026). Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas.  {journal/biorxv}
   
 5. **Relevant links:** <remove links that are not relevant>  
 > * Publication DOI: [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
