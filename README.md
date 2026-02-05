@@ -22,11 +22,12 @@ GENERAL INFORMATION
 ​
 1. **Publication or Dataset title: Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas
 ​
-2. **Authors: Emmanuel C. Ogbonna*, Soheil R. Talemi*, Ziyuan Zhao, Zoltan Maliga, Clarence Yapp, Yu-An Chen, Shishir Pant, Jeremy Muhlich, Brigette B.K. Kobs,  Andréanne Gagné, Threnesan Naidoo, Angela Shih, Isaac H. Solomon, Sandro Santagata, Amanda J. Martinot, Adrie Steyn, Bree B. Aldridge†, Peter K. Sorger†  / *Authors contributed equally to this article.  †Co-corresponding. 
+2. **Authors: Emmanuel C. Ogbonna*, Soheil R. Talemi*, Ziyuan Zhao, Zoltan Maliga, Clarence Yapp, Yu-An Chen, Shishir Pant, Jeremy Muhlich, Brigette B.K. Kobs,  Andréanne Gagné, Threnesan Naidoo, Angela Shih, Isaac H. Solomon, Sandro Santagata, Amanda J. Martinot, Adrie Steyn, Bree B. Aldridge†, Peter K. Sorger†
+3.  *Authors contributed equally to this article.  †Co-corresponding. 
 
-3. **Please cite this data as the following: Ogbonna and Rastgou Talemi (2026). Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas.  {journal/biorxv}
+4. **Please cite this data as the following: Ogbonna and Rastgou Talemi (2026). Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas.  {journal/biorxv}
   
-4. **Relevant links:** <remove links that are not relevant>  
+5. **Relevant links:** <remove links that are not relevant>  
 > * Publication DOI: [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
 > * Associated GitHub Repository: [MY-REPO](https://github.com/MY-REPO-URL)  
 > * To view an archived record of this repository: [My-ZENODO-DOI](https://zenodo.org/doi/MY-ZENDODO-DOI-URL) 
@@ -34,8 +35,6 @@ GENERAL INFORMATION
 > * Associated documentation website: [MY-PROJECT-WEBSITE](MY-PROJECT-WEBSITE-URL)  
 > * DOI of other publications that use the data: <If this data is being reused from a past publication, include DOI and APA citation>
 > * <Other important links if applicable>
-​
-5. **Licenses/restrictions placed on the data:** CC-BY [creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 ​
 --------------------
 ACCESS THE DATASET 
