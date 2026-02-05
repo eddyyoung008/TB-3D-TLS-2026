@@ -51,15 +51,13 @@ ACCESS THE DATASET
 Each folder corresponds to a patient sample (N). <Edit as needed if this folder structure does not fit the needs of your paper> 
  
 |File Type     | Description                                                                        | Location|
-|--------      | ----------------------------------------------------------------------------------|---------|
+|--------      | -----------------------------------------------------------------------------------|---------|
 |N.ome.tif     | Stitched multiplex CyCIF image pyramid in ome.tif format                           | AWS     |
-|N_HE.vsi      | Hematoxylin and Eosin stained image of adjacent FFPE tissue section in .vsi format | AWS     |
-|\_N\_HE\_/    | folder: raw image data accompanying .vsi file                                      | AWS     |
-|markers.csv   | list of all markers in ome.tif image                                               | Synapse |
-|N.csv         | single-cell feature table, including intensity data for all channels               | Synapse |
-|N_ROI.csv     | X and Y coordinates for histologically annotated regions in CyCIF and H&E images   | Synapse |
+|N.ome.tif     | Hematoxylin and Eosin stained image of adjacent FFPE tissue section in .vsi format | AWS     |
+|N-cellRing.
+   ome.tif     | Segmentation mask image                                                            | AWS     |
+|N.csv         | single-cell feature table, including intensity data for all channels               | AWS     |
 |raw/          | folder of raw IF image data in .rcpnl format                                       | AWS     |
-|segmentation/ |  folder of segmentation maps for tissue image in .tif format                       | AWS     |
 | N.fastq      | Sequencing data                                                                    | GEO     |
 ​
 ​
