@@ -41,8 +41,6 @@ Relevant links:
 --------------------
 ACCESS THE DATASET 
 --------------------
-<Data should be uploaded to the appropriate public repository where applicable - if you are not sure which repository to use reach out to your Data Manager>
-  
 ​
 ## File organization:   
 **Each file follows the following naming convention:**    
