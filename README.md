@@ -22,7 +22,7 @@ GENERAL INFORMATION
 ​
 1. **Publication or Dataset title: Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas
 ​
-2. **Authors: Emmanuel C. Ogbonna1,2*, Soheil R. Talemi1*, Ziyuan Zhao1,3, Zoltan Maliga1, Clarence Yapp1, Yu-An Chen1, Shishir Pant1, Jeremy Muhlich1, Brigette B.K. Kobs1,  Andréanne Gagné1,4, Threnesan Naidoo5,6, Angela Shih7, Isaac H. Solomon8, Sandro Santagata1,8, Amanda J. Martinot9, Adrie Steyn5,10, Bree B. Aldridge1,2†, Peter K. Sorger1†
+2. **Authors: Emmanuel C. Ogbonna*, Soheil R. Talemi*, Ziyuan Zhao, Zoltan Maliga, Clarence Yapp, Yu-An Chen, Shishir Pant, Jeremy Muhlich, Brigette B.K. Kobs,  Andréanne Gagné, Threnesan Naidoo, Angela Shih, Isaac H. Solomon, Sandro Santagata, Amanda J. Martinot, Adrie Steyn, Bree B. Aldridge†, Peter K. Sorger†
 *Authors contributed equally to this article.
 †Co-corresponding. 
 ​
