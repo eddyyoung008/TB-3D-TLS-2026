@@ -167,6 +167,55 @@ Image data generated during this study are available on the Gates TB Data Portal
 | Patient1_B4 | LSP24638.ome.tif           | AWS      | 11.72 |
 | Patient1_B5 | LSP16103.ome.tif           | AWS      | 0.84 |
 | Patient1_B5 | LSP16106.ome.tiff          | AWS      | 19.70 |​
+### Segmentation Mask Data
+
+| Patient ID  | File Name            | File Size (GB) | Antibody Panel |
+|-------------|----------------------|---------------|----------------|
+| Patient1_B4 | LSP24522.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24525.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24528.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24531.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24534.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24537.ome.tif     | 16.73 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24540.ome.tif     | 14.93 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24543.ome.tif     | 16.73 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24546.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24549.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24552.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24555.ome.tif     | 16.84 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24558.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24561.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24564.ome.tif     | 16.84 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24567.ome.tif     | 15.57 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24570.ome.tif     | 16.84 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24573.ome.tif     | 18.05 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24576.ome.tif     | 18.05 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24579.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24582.ome.tif     | 18.05 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24585.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24588.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24591.ome.tif     | 15.57 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24594.ome.tif     | 16.73 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24597.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24600.ome.tif     | 16.84 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24603.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24606.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24609.ome.tif     | 18.05 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24612.ome.tif     | 16.08 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24615.ome.tif     | 18.18 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24618.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24621.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24624.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24627.ome.tif     | 17.39 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24630.ome.tif     | 16.73 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24633.ome.tif     | 15.57 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24636.ome.tif     | 16.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24639.ome.tif     | 14.93 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B5 | LSP16101.ome.tif     | 22.30 | ORION imaging panel |
+| Patient1_B5 | LSP16102.ome.tif     | 0.316 | EO8_p17e25_PostGeoMx_CyCIF |
+| Patient1_B5 | LSP16104.ome.tif     | 6.83  | EO4_TB_MDSC_rerun |
+| Patient1_B5 | LSP16105.ome.tif     | 7.16  | EO5_B5 and AHRI samples |
+
 ### N.csv
 ​
 |Patient or Biospecimen ID | File Name   | Synapse ID | File size |
