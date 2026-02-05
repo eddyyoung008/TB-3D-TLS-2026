@@ -216,30 +216,65 @@ Image data generated during this study are available on the Gates TB Data Portal
 | Patient1_B5 | LSP16104.ome.tif     | 6.83  | EO4_TB_MDSC_rerun |
 | Patient1_B5 | LSP16105.ome.tif     | 7.16  | EO5_B5 and AHRI samples |
 
-### N.csv
-​
-|Patient or Biospecimen ID | File Name   | Synapse ID | File size |
-|------- | ------------|------------|-----------|
-|ID | ID.csv |  |  |
-​
-### N_ROI.csv
-​
-|Patient or Biospecimen ID | File Name       | Synapse ID  | File size|
-|------- | ----------------|-------------|----------|
-|ID | ID_ROI.csv |  |    |
-​
-### raw/
-​
-|Patient or Biospecimen ID | Number of Files | Folder size| Location|
-|------- |-----------------|------------|---------|
-|ID | 13              |     |      |
-​
-​
-### segmentation/
-​
-|Patient or Biospecimen ID | Number of Files | Folder size| Location|
-|------- |-----------------|------------|---------|
-|ID |               |     |      |
+### Features Table Data
+
+| Patient ID  | File Name       | File Size (GB) | Antibody Panel |
+|-------------|-----------------|---------------|----------------|
+| Patient1_B4 | LSP24522.csv    | 1.16 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24525.csv    | 1.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24528.csv    | 1.16 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24531.csv    | 1.31 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24534.csv    | 1.18 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24537.csv    | 1.19 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24540.csv    | 1.21 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24543.csv    | 1.21 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24546.csv    | 1.23 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24549.csv    | 1.19 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24552.csv    | 1.22 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24555.csv    | 1.18 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24558.csv    | 1.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24561.csv    | 1.14 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24564.csv    | 1.17 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24567.csv    | 1.16 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24570.csv    | 1.30 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24573.csv    | 1.13 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24576.csv    | 1.13 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24579.csv    | 1.10 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24582.csv    | 1.16 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24585.csv    | 1.11 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24588.csv    | 1.13 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24591.csv    | 1.11 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24594.csv    | 1.14 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24597.csv    | 1.07 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24600.csv    | 1.10 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24603.csv    | 1.13 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24606.csv    | 1.08 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24609.csv    | 1.11 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24612.csv    | 0.99 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24615.csv    | 1.20 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24618.csv    | 0.96 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24621.csv    | 0.98 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24624.csv    | 0.96 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24627.csv    | 1.00 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24630.csv    | 0.98 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24633.csv    | 0.94 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24636.csv    | 1.00 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B4 | LSP24639.csv    | 0.92 | p17e16_EO7_B4_3D IMAGE RECONSTRUCTION |
+| Patient1_B5 | LSP16101.csv    | 0.51 | ORION imaging panel |
+| Patient1_B5 | LSP16102.csv    | 1.67 | EO8_p17e25_PostGeoMx_CyCIF |
+| Patient1_B5 | LSP16104.csv    | 1.71 | EO4_TB_MDSC_rerun |
+| Patient1_B5 | LSP16105.csv    | 2.24 | EO5_B5 and AHRI samples |
+
+### 3D Imaris Image Data
+
+| Patient ID  | File Name                 | Location | File Size (GB) |
+|-------------|---------------------------|----------|---------------|
+| Patient1_B4 | Patient1_B4_3D_TLS.ims    | AWS      | 8640.00 |
+| Patient1_B4 | output1.ims               | AWS      | 124.00 |
+| Patient1_B4 | output2.ims               | AWS      | 72.70 |
+| Patient1_B4 | output4.ims               | AWS      | 65.60 |
+| Patient1_B4 | output5.ims               | AWS      | 142.00 |
+| Patient1_B4 | output6.ims               | AWS      | 65.30 |
 ​
 ​
  
