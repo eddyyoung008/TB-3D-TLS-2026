@@ -20,14 +20,15 @@ TABLE OF CONTENTS
 GENERAL INFORMATION
 --------------------
 ​
-1. **Publication or Dataset title:** <Publication or Dataset Title>   
+1. **Publication or Dataset title: Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas
 ​
-2. **Authors:** <List; No need to include affiliations.>  
+2. **Authors: Emmanuel C. Ogbonna1,2*, Soheil R. Talemi1*, Ziyuan Zhao1,3, Zoltan Maliga1, Clarence Yapp1, Yu-An Chen1, Shishir Pant1, Jeremy Muhlich1, Brigette B.K. Kobs1,  Andréanne Gagné1,4, Threnesan Naidoo5,6, Angela Shih7, Isaac H. Solomon8, Sandro Santagata1,8, Amanda J. Martinot9, Adrie Steyn5,10, Bree B. Aldridge1,2†, Peter K. Sorger1†
+*Authors contributed equally to this article.
+†Co-corresponding. 
 ​
-3. **Please cite this data as the following:**  <Following standard APA citation format - if this data is associated with a publication, this should be the paper citation>    
-Author Last, Author F. (Year). Title of data set (Version number) [Description of form]. Location: Name of producer.    
+4. **Please cite this data as the following: Ogbonna and Talemi (2026). Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas.  {journal/biorxv}
   
-4. **Relevant links:** <remove links that are not relevant>  
+5. **Relevant links:** <remove links that are not relevant>  
 > * Publication DOI: [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
 > * Associated GitHub Repository: [MY-REPO](https://github.com/MY-REPO-URL)  
 > * To view an archived record of this repository: [My-ZENODO-DOI](https://zenodo.org/doi/MY-ZENDODO-DOI-URL) 
