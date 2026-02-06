@@ -52,7 +52,7 @@ Each folder corresponds to a patient sample (N). <Edit as needed if this folder 
 |N.ome.tif           | Hematoxylin and Eosin stained image of adjacent FFPE tissue section                | AWS     |
 |N-cellRing. ome.tif | Segmentation mask image                                                            | AWS     |
 |N.csv               | single-cell feature table, including intensity data for all channels               | AWS     |
-|N.fastq             | Sequencing data                                                                    | GEO     |
+|N.fastq             | GeoMx Sequencing data                                                                    | GEO     |
 |N.ims               | Stitched and registered 3D multiplexed CyCIF image in .ims format                  | AWS     |​​
 ## AWS Data Access  
 ​
