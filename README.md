@@ -284,8 +284,8 @@ ADDITIONAL NOTES/COMMENTS
 
 ## Contributors
 
-- **Soheil** — GeoMx analysis and spatial modeling  
+- **Soheil** — 
   GitHub: https://github.com/RTSoheil
 
-- **Emmanuel Ogbonna** — Project lead; CyCIF, 3D reconstruction, TLS analysis  
+- **Emmanuel Ogbonna**   
   GitHub: https://github.com/emo963
