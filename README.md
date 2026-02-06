@@ -54,8 +54,7 @@ Each folder corresponds to a patient sample (N). <Edit as needed if this folder 
 |N.csv               | single-cell feature table, including intensity data for all channels               | AWS     |
 |raw/                | folder of raw IF image data in .rcpnl format                                       | AWS     |
 |N.fastq             | Sequencing data                                                                    | GEO     |
-|N.ims               | Stitched and registered 3D multiplexed CyCIF image in .ims format                  | AWS     |​
-​
+|N.ims               | Stitched and registered 3D multiplexed CyCIF image in .ims format                  | AWS     |​​
 ## AWS Data Access  
 ​
 Full-resolution CyCIF images, single cell segmentation masks, and cell count tables will be available via AWS.​You will need the following bucket name:
