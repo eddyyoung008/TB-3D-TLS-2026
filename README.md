@@ -1,6 +1,6 @@
-#Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas
-
-# Data Access Information
+​
+--------------------
+# Multidimensional Spatial Characterization of Tertiary Lymphoid Structures in Human Pulmonary TB Lung Granulomas
 ------------------ 
 TABLE OF CONTENTS
 ------------------
