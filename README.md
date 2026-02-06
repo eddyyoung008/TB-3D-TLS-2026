@@ -57,9 +57,8 @@ Each folder corresponds to a patient sample (N). <Edit as needed if this folder 
 |N.ims               | Stitched and registered 3D multiplexed CyCIF image in .ims format                  | AWS     |​​
 ## AWS Data Access  
 ​
-Full-resolution CyCIF images, single cell segmentation masks, and cell count tables will be available via AWS.​You will need the following bucket name:
+Full-resolution CyCIF images, single cell segmentation masks, and cell count tables will be available via AWS.​ You will need the following bucket name:
 ​
-**You will need the following bucket name:**  
 ```
 AWS BUCKET NAME  
 ```
